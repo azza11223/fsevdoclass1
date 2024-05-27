@@ -1,0 +1,12 @@
+:first-child{
+    color: blue;
+}
+:last-child{
+    color: blueviolet;
+}
+:nth-child(3){
+    color: chartreuse;
+}
+:not(p) {
+    color: aqua;
+}
